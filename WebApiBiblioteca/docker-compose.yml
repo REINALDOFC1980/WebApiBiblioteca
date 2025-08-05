@@ -1,0 +1,55 @@
+
+
+services:
+  webapi:
+    container_name: webapi-biblioteca
+    build:
+      context: ../WebApiBiblioteca
+      dockerfile: Dockerfile
+
+    ports:
+      - "5001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Default=Server=sqlserver,1433;Database=BibliotecaDB;User Id=sa;Password=Leleca@80#
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__UserName=guest
+      - RabbitMQ__Password=guest
+    depends_on:
+      - sqlserver
+      - rabbitmq
+    networks:
+      - app-network
+
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-dev
+    ports:
+      - "1200:1433"
+    environment:
+      SA_PASSWORD: "Leleca@80#"
+      ACCEPT_EULA: "Y"
+    networks:
+      - app-network
+    volumes:
+      - sql_data:/var/opt/mssql
+  
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"    # Porta de comunicação AMQP
+      - "15672:15672"  # Interface de administração web
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    networks:
+      - app-network
+
+volumes:
+  sql_data:
+
+networks:
+  app-network:

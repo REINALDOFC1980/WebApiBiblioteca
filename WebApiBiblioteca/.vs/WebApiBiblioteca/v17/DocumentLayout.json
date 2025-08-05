@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\service\\autores\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:service\\autores\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\service\\rabbitmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:service\\rabbitmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\service\\autores\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:service\\autores\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\service\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:service\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|e:\\reinaldo.dev.c#\\laboratorios\\webapibiblioteca\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6F4B0F6-18A8-49A9-8076-A94F8E3E39E6}|WebApiBiblioteca.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\Autores\\AutorService.cs",
+              "RelativeDocumentMoniker": "Service\\Autores\\AutorService.cs",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\Autores\\AutorService.cs",
+              "RelativeToolTip": "Service\\Autores\\AutorService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAANwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:07:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRabbitMQService.cs",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\RabbitMQ\\IRabbitMQService.cs",
+              "RelativeDocumentMoniker": "Service\\RabbitMQ\\IRabbitMQService.cs",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\RabbitMQ\\IRabbitMQService.cs",
+              "RelativeToolTip": "Service\\RabbitMQ\\IRabbitMQService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:15:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\Autores\\IAutorService.cs",
+              "RelativeDocumentMoniker": "Service\\Autores\\IAutorService.cs",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\Autores\\IAutorService.cs",
+              "RelativeToolTip": "Service\\Autores\\IAutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:15:06.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\RabbitMQ\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "Service\\RabbitMQ\\RabbitMQService.cs",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Service\\RabbitMQ\\RabbitMQService.cs",
+              "RelativeToolTip": "Service\\RabbitMQ\\RabbitMQService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:15:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-05T12:04:56.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T12:23:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\reinaldo.dev.c#\\LABORATORIOS\\WebApiBiblioteca\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-05T11:03:55.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
